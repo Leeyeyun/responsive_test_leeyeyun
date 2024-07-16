@@ -1,0 +1,10 @@
+/* desktop 1400px */
+@media screen and (max-width:1400px){
+    /* header side nav 숨기기 */
+    header .left, header .right {display:none;}
+    main .new {padding:0 16px;}
+}
+/* tablet 1000px */
+@media screen and (max-width:1000px){}
+/* mobile 760px */ 
+@media screen and (max-width:760px){}
